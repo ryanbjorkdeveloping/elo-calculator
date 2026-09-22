@@ -77,3 +77,4 @@ class RatingSystem:
 
         self.ratings[team_a] = new_rating_a
         self.ratings[team_b] = new_rating_b
+
