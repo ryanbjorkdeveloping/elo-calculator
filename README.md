@@ -7,6 +7,7 @@
   <img alt="23 tests passing" src="https://img.shields.io/badge/tests-23%20passing-2ea44f?style=flat-square&logo=pytest&logoColor=white">
   <img alt="Status: alpha" src="https://img.shields.io/badge/status-alpha-orange?style=flat-square">
   <img alt="Version 0.1.0" src="https://img.shields.io/badge/version-0.1.0-blue?style=flat-square">
+  <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-yellow?style=flat-square">
   <img alt="Built with pandas" src="https://img.shields.io/badge/built%20with-pandas-150458?style=flat-square&logo=pandas&logoColor=white">
 </p>
 
@@ -438,9 +439,7 @@ If you're changing the rating math, please include the before/after numbers for 
 
 ## License
 
-No license file is currently included, which means **all rights are reserved by default** and others cannot legally reuse this code.
-
-If you want it to be open source, adding an [MIT license](https://choosealicense.com/licenses/mit/) as `LICENSE` is the usual choice.
+This project is released under the [MIT License](LICENSE). You're free to use, modify, and distribute it, commercially or otherwise, as long as the copyright notice is kept.
 
 ---
 
